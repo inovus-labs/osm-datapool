@@ -23,19 +23,17 @@ This repository is maintained in such a way that, even someone with no prior cod
 #
 
 Here is an example for a successful submission of record.
-
 ```
 Kristu Jyoti College of Management and Technology
 9.4620° N, 76.5478° E
 https://user-images.githubusercontent.com/44474792/193367179-f2f44de5-84ea-4f5a-a6dc-189d833955a5.png
 ```
-
 - `Line 1` - Name of the Institution / Enterprise / Establishment or else.
 - `Line 2` - Geo-coordinates (Latitude, Longitude)
 - `Line 3` - Link of the image
 
-
-### 🌟 Disclaimer
+#
+### ⚠️ Special Note
 - If the Pull Request is eligible enough, then it'll be merged to the master branch.
 - Upload the image on GitHub itself. Use Issues on any repository for that.
 - Image must be self-owned. Images from public internet sources will not be encouraged.
