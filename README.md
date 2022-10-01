@@ -33,7 +33,7 @@ https://user-images.githubusercontent.com/44474792/193367179-f2f44de5-84ea-4f5a-
 - `Line 3` - Link of the image
 
 #
-## ⚠️ Special Note
+### ⚠️ Special Note
 - If the Pull Request is eligible enough, then it'll be merged to the master branch.
 - Upload the image on GitHub itself. Use Issues on any repository for that.
 - Image must be self-owned. Images from public internet sources will not be encouraged.
