@@ -1,3 +1,0 @@
-Anu-Abhinaya Theatre Chaghanassery
-9.4303° N, 76.5308° E
-https://user-images.githubusercontent.com/81223681/193410647-1ae04e7d-7bf8-42be-b665-18a92ad0b598.jpeg
